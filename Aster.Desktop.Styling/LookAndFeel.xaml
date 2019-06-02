@@ -1,0 +1,16 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <ResourceDictionary.MergedDictionaries>
+
+        <!-- Icons -->
+        <ResourceDictionary Source="/Aster.Desktop.Styling;component/BitmapGraphics/Icons.xaml"/>
+        
+        <!-- Styles -->
+        <ResourceDictionary Source="/Aster.Desktop.Styling;component/Styles/Label.xaml"/>
+        
+        <!-- Popup-Windows -->
+        <ResourceDictionary Source="/Aster.Desktop.Styling;component/Styles/Popup.xaml"/>
+
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>
